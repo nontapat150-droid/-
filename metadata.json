@@ -1,0 +1,6 @@
+{
+  "name": "บันทึกรายรับรายจ่าย",
+  "description": "แอพพลิเคชั่นบันทึกรายรับรายจ่ายสไตล์กระจกโปร่งแสง Glassmorphic สำหรับคนไทยยุคใหม่ 🌸",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
